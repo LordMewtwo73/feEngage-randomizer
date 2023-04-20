@@ -12,13 +12,11 @@ suggestions for future additions to the randomizer.
 %% HOW TO USE
 
 1. This program requires the following mod, download it here:
-	Dragon + Exclusive Classes for Everyone 2.0.0
-	https://gamebanana.com/mods/436900
+Dragon + Exclusive Classes for Everyone 2.0.0
+https://gamebanana.com/mods/436900
 
-2. From that mod, copy the following files and place them into the PUT MODDED FILES HERE directory:
-	person.xml.bundle
-	job.xml.bundle
-	assettable.xml.bundle
+2. From that mod, copy the following file and place it into the PUT MODDED FILES HERE directory:
+assettable.xml.bundle
 
 3. Start the program by running "Engage_Randomizer_Vx.x.x.exe"
 
@@ -50,4 +48,11 @@ additions that I plan to make to the randomizer:
 
 
 
+%% ACKNOWLEDGEMENTS
 
+Big thanks to AraragiHoozuki, who created the EngageXml program, which the randomizer uses to bundle/unbundle 
+Engage's gamefiles. Check that program out here:
+https://github.com/AraragiHoozuki/EngageXml
+
+Also big thanks to Lilibet and jirachilover, who created the necessary Dragon + Exclusive Classes for Everyone 2.0.0 mod, allowing characters to become normally unique classes. The mod link is shown above, but I'll post it again:
+https://gamebanana.com/mods/436900

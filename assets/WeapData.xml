@@ -1,0 +1,148 @@
+﻿<Book Count="1">
+	<Sheet Name="Weapons" Count="4">
+		<Header>
+			<Param Name="Name" Ident="Name" Type="string" />
+			<Param Name="IID" Ident="IID" Type="string" />
+			<Param Name="Weaptype" Ident="Weaptype" Type="string" />
+			<Param Name="DLC" Ident="DLC" Type="int" />
+		</Header>
+		<Data>
+      <Param Name="Slim Sword" IID="IID_ほそみの剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Iron Sword" IID="IID_鉄の剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Steel Sword" IID="IID_鋼の剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Silver Sword" IID="IID_銀の剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Armorslayer" IID="IID_アーマーキラー" Weaptype="Sword" DLC="0" />
+      <Param Name="Killing Edge" IID="IID_キルソード" Weaptype="Sword" DLC="0" />
+      <Param Name="Levin Sword" IID="IID_いかづちの剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Wo Dao" IID="IID_倭刀" Weaptype="Sword" DLC="0" />
+      <Param Name="Wyrmslayer" IID="IID_ドラゴンキラー" Weaptype="Sword" DLC="0" />
+      <Param Name="Brave Sword" IID="IID_勇者の剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Libération" IID="IID_リベラシオン" Weaptype="Sword" DLC="0" />
+      <Param Name="Wille Glanz" IID="IID_ヴィレグランツ" Weaptype="Sword" DLC="0" />
+      <Param Name="Caladbolg" IID="IID_クラドホルグ" Weaptype="Sword" DLC="0" />
+      <Param Name="Iron Blade" IID="IID_鉄の大剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Steel Blade" IID="IID_鋼の大剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Silver Blade" IID="IID_銀の大剣" Weaptype="Sword" DLC="0" />
+      <Param Name="Georgios" IID="IID_ゲオルギオス" Weaptype="Sword" DLC="0" />
+      <Param Name="Fólkvangr" IID="IID_フォルクヴァング" Weaptype="Sword" DLC="1" />
+      <Param Name="Biting Blade" IID="IID_チョコレート剣" Weaptype="Sword" DLC="1" />
+      <Param Name="Slim Lance" IID="IID_ほそみの槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Iron Lance" IID="IID_鉄の槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Steel Lance" IID="IID_鋼の槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Silver Lance" IID="IID_銀の槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Javelin" IID="IID_手槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Ridersbane" IID="IID_ナイトキラー" Weaptype="Lance" DLC="0" />
+      <Param Name="Killer Lance" IID="IID_キラーランス" Weaptype="Lance" DLC="0" />
+      <Param Name="Flame Lance" IID="IID_ほのおの槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Spear" IID="IID_スレンドスピア" Weaptype="Lance" DLC="0" />
+      <Param Name="Brave Lance" IID="IID_勇者の槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Brionac" IID="IID_ブリューナク" Weaptype="Lance" DLC="0" />
+      <Param Name="Iron Greatlance" IID="IID_鉄の大槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Steel Greatlance" IID="IID_鋼の大槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Silver Greatlance" IID="IID_銀の大槍" Weaptype="Lance" DLC="0" />
+      <Param Name="Venomous" IID="IID_ヴェノマス" Weaptype="Lance" DLC="0" />
+      <Param Name="Représailles" IID="IID_トライゾン" Weaptype="Lance" DLC="1" />
+      <Param Name="Fensalir" IID="IID_フェンサリル" Weaptype="Lance" DLC="1" />
+      <Param Name="Swirlance" IID="IID_ソフトクリーム槍" Weaptype="Lance" DLC="1" />
+      <Param Name="Compact Axe" IID="IID_ショートアクス" Weaptype="Axe" DLC="0" />
+      <Param Name="Iron Axe" IID="IID_鉄の斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Steel Axe" IID="IID_鋼の斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Silver Axe" IID="IID_銀の斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Hand Axe" IID="IID_手斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Hammer" IID="IID_ハンマー" Weaptype="Axe" DLC="0" />
+      <Param Name="Poleaxe" IID="IID_ポールアクス" Weaptype="Axe" DLC="0" />
+      <Param Name="Killer Axe" IID="IID_キラーアクス" Weaptype="Axe" DLC="0" />
+      <Param Name="Tomahawk" IID="IID_トマホーク" Weaptype="Axe" DLC="0" />
+      <Param Name="Brave Axe" IID="IID_勇者の斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Fragarach" IID="IID_フラガラッハ" Weaptype="Axe" DLC="0" />
+      <Param Name="Iron Greataxe" IID="IID_鉄の大斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Steel Greataxe" IID="IID_鋼の大斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Silver Greataxe" IID="IID_銀の大斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Hurricane Axe" IID="IID_かぜの大斧" Weaptype="Axe" DLC="0" />
+      <Param Name="Ukonvasara" IID="IID_ウコンバサラ" Weaptype="Axe" DLC="0" />
+      <Param Name="Revanche" IID="IID_ルヴァンシュ" Weaptype="Axe" DLC="1" />
+      <Param Name="Nóatún" IID="IID_ノーアトゥーン" Weaptype="Axe" DLC="1" />
+      <Param Name="Lollichop" IID="IID_ロリポップ斧" Weaptype="Axe" DLC="1" />
+      <Param Name="Mini Bow" IID="IID_ショートボウ" Weaptype="Bow" DLC="0" />
+      <Param Name="Iron Bow" IID="IID_鉄の弓" Weaptype="Bow" DLC="0" />
+      <Param Name="Steel Bow" IID="IID_鋼の弓" Weaptype="Bow" DLC="0" />
+      <Param Name="Silver Bow" IID="IID_銀の弓" Weaptype="Bow" DLC="0" />
+      <Param Name="Longbow" IID="IID_長弓" Weaptype="Bow" DLC="0" />
+      <Param Name="Killer Bow" IID="IID_キラーボウ" Weaptype="Bow" DLC="0" />
+      <Param Name="Radiant Bow" IID="IID_光の弓" Weaptype="Bow" DLC="0" />
+      <Param Name="Brave Bow" IID="IID_勇者の弓" Weaptype="Bow" DLC="0" />
+      <Param Name="Lendabair" IID="IID_レンダウィル" Weaptype="Bow" DLC="0" />
+      <Param Name="Croissbow" IID="IID_クロワッサン弓" Weaptype="Bow" DLC="1" />
+      <Param Name="Short Knife" IID="IID_ショートナイフ" Weaptype="Dagger" DLC="0" />
+      <Param Name="Iron Dagger" IID="IID_鉄のナイフ" Weaptype="Dagger" DLC="0" />
+      <Param Name="Steel Dagger" IID="IID_鋼のナイフ" Weaptype="Dagger" DLC="0" />
+      <Param Name="Silver Dagger" IID="IID_銀のナイフ" Weaptype="Dagger" DLC="0" />
+      <Param Name="Kard" IID="IID_カルド" Weaptype="Dagger" DLC="0" />
+      <Param Name="Stiletto" IID="IID_スティレット" Weaptype="Dagger" DLC="0" />
+      <Param Name="Peshkatz" IID="IID_ペシュカド" Weaptype="Dagger" DLC="0" />
+      <Param Name="Misericorde" IID="IID_ミセリコルデ" Weaptype="Dagger" DLC="0" />
+      <Param Name="Cinquedea" IID="IID_シンクエディア" Weaptype="Dagger" DLC="0" />
+      <Param Name="Carnwenhan" IID="IID_カルンウェナン" Weaptype="Dagger" DLC="0" />
+      <Param Name="Confectioknife" IID="IID_おだんご短剣" Weaptype="Dagger" DLC="1" />
+      <Param Name="Surge" IID="IID_サージ" Weaptype="Magic" DLC="0" />
+      <Param Name="Fire" IID="IID_ファイアー" Weaptype="Magic" DLC="0" />
+      <Param Name="Thunder" IID="IID_サンダー" Weaptype="Magic" DLC="0" />
+      <Param Name="Wind" IID="IID_ウィンド" Weaptype="Magic" DLC="0" />
+      <Param Name="Elsurge" IID="IID_エルサージ" Weaptype="Magic" DLC="0" />
+      <Param Name="Elfire" IID="IID_エルファイアー" Weaptype="Magic" DLC="0" />
+      <Param Name="Elthunder" IID="IID_エルサンダー" Weaptype="Magic" DLC="0" />
+      <Param Name="Elwind" IID="IID_エルウィンド" Weaptype="Magic" DLC="0" />
+      <Param Name="Bolganone" IID="IID_ボルガノン" Weaptype="Magic" DLC="0" />
+      <Param Name="Thoron" IID="IID_トロン" Weaptype="Magic" DLC="0" />
+      <Param Name="Excalibur" IID="IID_エクスカリバー" Weaptype="Magic" DLC="0" />
+      <Param Name="Nova" IID="IID_ノヴァ" Weaptype="Magic" DLC="0" />
+      <Param Name="Meteor" IID="IID_メティオ" Weaptype="Magic" DLC="0" />
+      <Param Name="Obscurité" IID="IID_オヴスキュリテ" Weaptype="Magic" DLC="0" />
+      <Param Name="Tiramistorm" IID="IID_ティラミス魔道書" Weaptype="Magic" DLC="1" />
+      <Param Name="Heal" IID="IID_ライブ" Weaptype="Rod" DLC="0" />
+      <Param Name="Mend" IID="IID_リライブ" Weaptype="Rod" DLC="0" />
+      <Param Name="Physic" IID="IID_リブロー" Weaptype="Rod" DLC="0" />
+      <Param Name="Recover" IID="IID_リカバー" Weaptype="Rod" DLC="0" />
+      <Param Name="Fortify" IID="IID_リザーブ" Weaptype="Rod" DLC="0" />
+      <Param Name="Restore" IID="IID_レスト" Weaptype="Rod" DLC="0" />
+      <Param Name="Warp" IID="IID_ワープ" Weaptype="Rod" DLC="0" />
+      <Param Name="Rewarp" IID="IID_リワープ" Weaptype="Rod" DLC="0" />
+      <Param Name="Rescue" IID="IID_レスキュー" Weaptype="Rod" DLC="0" />
+      <Param Name="Entrap" IID="IID_ドロー" Weaptype="Rod" DLC="0" />
+      <Param Name="Illume" IID="IID_トーチ" Weaptype="Rod" DLC="0" />
+      <Param Name="Freeze" IID="IID_フリーズ" Weaptype="Rod" DLC="0" />
+      <Param Name="Silence" IID="IID_サイレス" Weaptype="Rod" DLC="0" />
+      <Param Name="Obstruct" IID="IID_アイスロック" Weaptype="Rod" DLC="0" />
+      <Param Name="Fracture" IID="IID_コラプス" Weaptype="Rod" DLC="0" />
+      <Param Name="Nodus" IID="IID_ノードゥス" Weaptype="Rod" DLC="0" />
+      <Param Name="Treat" IID="IID_カップケーキ杖" Weaptype="Rod" DLC="1" />
+      <Param Name="Initiate Art" IID="IID_初心の法" Weaptype="Fist" DLC="0" />
+      <Param Name="Iron-Body Art" IID="IID_鉄身の法" Weaptype="Fist" DLC="0" />
+      <Param Name="Steel-Hand Art" IID="IID_鋼身の法" Weaptype="Fist" DLC="0" />
+      <Param Name="Silver-Spirit Art" IID="IID_銀身の法" Weaptype="Fist" DLC="0" />
+      <Param Name="Shielding Art" IID="IID_護身の法" Weaptype="Fist" DLC="0" />
+      <Param Name="Flashing Fist Art" IID="IID_閃進の法" Weaptype="Fist" DLC="0" />
+      <Param Name="Divine Fist Art" IID="IID_覇神の法" Weaptype="Fist" DLC="0" />
+      <Param Name="Scrollcake" IID="IID_ロールケーキ体術" Weaptype="Fist" DLC="1" />
+      <Param Name="Fell Stone" IID="IID_邪竜石" Weaptype="Stone" DLC="1" />
+      <Param Name="Fell Ruinstone" IID="IID_真邪竜石" Weaptype="Stone" DLC="1" />
+      <Param Name="Fell Magicstone" IID="IID_邪竜石_魔法攻撃" Weaptype="Stone" DLC="1" />
+      <Param Name="Fell Slaystone" IID="IID_邪竜石_騎馬特効" Weaptype="Stone" DLC="1" />
+      <Param Name="Fell Weightstone" IID="IID_邪竜石_飛行特効" Weaptype="Stone" DLC="1" />
+      <Param Name="Standard Blast" IID="IID_弾_物理" Weaptype="Cannon" DLC="1" />
+      <Param Name="Magic Blast" IID="IID_弾_魔法" Weaptype="Cannon" DLC="1" />
+      <Param Name="Freeze Blast" IID="IID_弾_フリーズ" Weaptype="Cannon" DLC="1" />
+      <Param Name="Silence Blast" IID="IID_弾_サイレス" Weaptype="Cannon" DLC="1" />
+      <Param Name="Break Blast" IID="IID_弾_ブレイク" Weaptype="Cannon" DLC="1" />
+      <Param Name="Venom Blast" IID="IID_弾_毒" Weaptype="Cannon" DLC="1" />
+      <Param Name="Tornado Blast" IID="IID_弾_飛行特効" Weaptype="Cannon" DLC="1" />
+      <Param Name="Armor Blast" IID="IID_弾_重装特効" Weaptype="Cannon" DLC="1" />
+      <Param Name="Rider Blast" IID="IID_弾_騎馬特効" Weaptype="Cannon" DLC="1" />
+      <Param Name="Wyrm Blast" IID="IID_弾_竜特効" Weaptype="Cannon" DLC="1" />
+      <Param Name="Holy Blast" IID="IID_弾_異形特効" Weaptype="Cannon" DLC="1" />
+      <Param Name="Mighty Blast" IID="IID_弾_物理_強" Weaptype="Cannon" DLC="1" />
+      <Param Name="Eldritch Blast" IID="IID_弾_魔法_強" Weaptype="Cannon" DLC="1" />
+      <Param Name="Piercing Blast" IID="IID_弾_防御無視" Weaptype="Cannon" DLC="1" />
+		</Data>
+	</Sheet>
+</Book>

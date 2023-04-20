@@ -13,13 +13,14 @@ suggestions for future additions to the randomizer.
 %% HOW TO USE
 
 1. This program requires the following mod, download it here:
-	Dragon + Exclusive Classes for Everyone 2.0.0
-	https://gamebanana.com/mods/436900
 
-2. From that mod, copy the following files and place them into the PUT MODDED FILES HERE directory:
-	person.xml.bundle
-	job.xml.bundle
-	assettable.xml.bundle
+Dragon + Exclusive Classes for Everyone 2.0.0
+
+https://gamebanana.com/mods/436900
+
+2. From that mod, copy the following file and place it into the PUT MODDED FILES HERE directory:
+
+assettable.xml.bundle
 
 3. Start the program by running "Engage_Randomizer_Vx.x.x.exe"
 

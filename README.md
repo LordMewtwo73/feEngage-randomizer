@@ -6,9 +6,11 @@ a proof-of-concept than anything spectacular at this point, but it will be great
 expanded upon in the future. For now, I hope you enjoy, and consider checking out 
 the discord for this and my other randomizer for FE Radiant Dawn here: 
 https://discord.gg/dKfhvFj
+
 At that discord, you can send me questions, submit bug reports, and even give 
 suggestions for future additions to the randomizer.
 
+<br>
 
 %% HOW TO USE
 
@@ -32,7 +34,7 @@ copy the entire "Randomizer" folder and paste it into the FE Engage mod folder.
 6. Details on your randomization are saved in "outputlog.txt", which is saved in the same directory 
 as the randomizer executable.
 
-
+<br>
 
 %% FUTURE ADDITIONS
 
@@ -50,7 +52,7 @@ additions that I plan to make to the randomizer:
 - ability to save/load previous randomization settings
 - compatibility with other mods
 
-
+<br>
 
 %% ACKNOWLEDGEMENTS
 

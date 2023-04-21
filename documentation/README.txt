@@ -33,10 +33,10 @@ as the randomizer executable.
 %% FUTURE ADDITIONS
 
 While this version is only capable of randomizing classes (and giving characters proper weapons 
-to match), the future state of this randomizer is much larger. To begin, here is a list of 
+to match) and character stats, the future state of this randomizer is much larger. To begin, here is a list of 
 additions that I plan to make to the randomizer:
 
-- random character/class growths, bases, and caps
+- random class growths, bases, and caps
 - random character/class skills
 - random recruitment order (including enemy/unplayable characters)
 - random weapon stats

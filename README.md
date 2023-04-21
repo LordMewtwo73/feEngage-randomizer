@@ -5,7 +5,7 @@ This is an early version of a FE Engage randomizer. It is meant to be more of
 a proof-of-concept than anything spectacular at this point, but it will be greatly 
 expanded upon in the future. For now, I hope you enjoy, and consider checking out 
 the discord for this and my other randomizer for FE Radiant Dawn here: 
-https://discord.gg/dKfhvFj
+discord.gg/WWATXtcq5N
 
 At that discord, you can send me questions, submit bug reports, and even give 
 suggestions for future additions to the randomizer.

@@ -47,11 +47,11 @@
       <Param Name="Mauvier" PID="PID_モーヴ" Vanilla_Classname="Royal Knight" Vanilla_JID="JID_ロイヤルナイト" SP="2500" DLC="0" Tier="2" Dispos="m022" />
       <Param Name="Anna" PID="PID_アンナ" Vanilla_Classname="Axe Fighter" Vanilla_JID="JID_アクスファイター" SP="300" DLC="0" Tier="1" Dispos="s001" />
       <Param Name="Jean" PID="PID_ジャン" Vanilla_Classname="Martial Monk" Vanilla_JID="JID_モンク" SP="300" DLC="0" Tier="1" Dispos="s002" />
-      <Param Name="Nel" PID="PID_エル" Vanilla_Classname="Fell Child_Nel" Vanilla_JID="JID_裏邪竜ノ娘" SP="2000" DLC="1" Tier="3" Dispos="" />
-      <Param Name="Rafal" PID="PID_ラファール" Vanilla_Classname="Fell Child_Rafal" Vanilla_JID="JID_裏邪竜ノ子" SP="2000" DLC="1" Tier="3" Dispos="" />
-      <Param Name="Zelestia" PID="PID_セレスティア" Vanilla_Classname="Melusine_Zelestia" Vanilla_JID="JID_メリュジーヌ_味方" SP="2000" DLC="1" Tier="3" Dispos="" />
-      <Param Name="Gregory" PID="PID_グレゴリー" Vanilla_Classname="Sage" Vanilla_JID="JID_セイジ" SP="2000" DLC="1" Tier="2" Dispos="" />
-      <Param Name="Madeline" PID="PID_マデリーン" Vanilla_Classname="General" Vanilla_JID="JID_ジェネラル" SP="2000" DLC="1" Tier="2" Dispos="" />
+      <Param Name="Nel" PID="PID_エル" Vanilla_Classname="Fell Child_Nel" Vanilla_JID="JID_裏邪竜ノ娘" SP="2000" DLC="1" Tier="3" Dispos="e001" />
+      <Param Name="Rafal" PID="PID_ラファール" Vanilla_Classname="Fell Child_Rafal" Vanilla_JID="JID_裏邪竜ノ子" SP="2000" DLC="1" Tier="3" Dispos="e001" />
+      <Param Name="Zelestia" PID="PID_セレスティア" Vanilla_Classname="Melusine_Zelestia" Vanilla_JID="JID_メリュジーヌ_味方" SP="2000" DLC="1" Tier="3" Dispos="e002" />
+      <Param Name="Gregory" PID="PID_グレゴリー" Vanilla_Classname="Sage" Vanilla_JID="JID_セイジ" SP="2000" DLC="1" Tier="2" Dispos="e003" />
+      <Param Name="Madeline" PID="PID_マデリーン" Vanilla_Classname="General" Vanilla_JID="JID_ジェネラル" SP="2000" DLC="1" Tier="2" Dispos="e004" />
 		</Data>
 	</Sheet>
 </Book>

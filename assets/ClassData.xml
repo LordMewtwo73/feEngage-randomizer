@@ -1,5 +1,5 @@
 ﻿<Book Count="1">
-	<Sheet Name="Classes" Count="6">
+	<Sheet Name="Classes" Count="59">
 		<Header>
 			<Param Name="Name" Ident="Name" Type="string" />
 			<Param Name="JID" Ident="JID" Type="string" />

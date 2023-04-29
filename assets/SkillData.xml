@@ -1,0 +1,518 @@
+﻿<Book Count="1">
+	<Sheet Name="Skills" Count="507">
+		<Header>
+			<Param Name="Name" Ident="Name" Type="string" />
+			<Param Name="SID" Ident="SID" Type="string" />
+      <Param Name="SP" Ident="SP" Type="int"/>
+			<Param Name="Type" Ident="Type" Type="string" />
+			<Param Name="DLC" Ident="DLC" Type="int" />
+		</Header>
+		<Data>
+      <Param Name="Adaptability" SID="SID_適応能力" SP="350" Type="Sync" DLC="1" />
+      <Param Name="Adaptability+" SID="SID_適応能力＋" SP="700" Type="Sync" DLC="1" />
+      <Param Name="Adaptable" SID="SID_順応" SP="" Type="Engage" DLC="0" />
+      <Param Name="Admiration" SID="SID_花園の門番" SP="" Type="Personal" DLC="0" />
+      <Param Name="Advance" SID="SID_踏み込み" SP="500" Type="Sync" DLC="0" />
+      <Param Name="Air Raid" SID="SID_急襲" SP="" Type="Class" DLC="0" />
+      <Param Name="Alabaster Duty" SID="SID_白の忠誠" SP="" Type="Personal" DLC="0" />
+      <Param Name="Alacrity" SID="SID_攻め立て" SP="1000" Type="Sync" DLC="0" />
+      <Param Name="Alacrity+" SID="SID_攻め立て＋" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Alacrity++" SID="SID_攻め立て＋＋" SP="3000" Type="Sync" DLC="0" />
+      <Param Name="All for One" SID="SID_ルキナエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Allied Defense" SID="SID_護衛" SP="" Type="Class" DLC="0" />
+      <Param Name="Anchor" SID="SID_不動" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Anima Focus" SID="SID_理魔法＋" SP="800" Type="Sync" DLC="1" />
+      <Param Name="Armored Blow" SID="SID_金剛の一撃" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Arms Shield" SID="SID_武器相性激化" SP="200" Type="Sync" DLC="0" />
+      <Param Name="Arms Shield+" SID="SID_武器相性激化＋" SP="400" Type="Sync" DLC="0" />
+      <Param Name="Arms Shield++" SID="SID_武器相性激化＋＋" SP="600" Type="Sync" DLC="0" />
+      <Param Name="Art Focus 1" SID="SID_体術・心１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Art Focus 2" SID="SID_体術・心２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Art Focus 3" SID="SID_体術・心３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Art Focus 4" SID="SID_体術・心４" SP="700" Type="Inherit" DLC="0" />
+      <Param Name="Art Focus 5" SID="SID_体術・心５" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Artbreaker" SID="SID_気功殺し" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Aspiring Hero" SID="SID_名乗り上げ" SP="" Type="Personal" DLC="0" />
+      <Param Name="Assembly Gambit" SID="SID_計略_引込の計" SP="1500" Type="Inherit" DLC="1" />
+      <Param Name="Assign Decoy" SID="SID_囮指名" SP="1500" Type="Sync" DLC="1" />
+      <Param Name="Astra Storm" SID="SID_リンエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Attuned" SID="SID_以心" SP="" Type="Engage" DLC="0" />
+      <Param Name="Augment" SID="SID_増幅" SP="" Type="Engage" DLC="0" />
+      <Param Name="Avoid +10" SID="SID_回避＋１０" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Avoid +15" SID="SID_回避＋１５" SP="1500" Type="Inherit" DLC="0" />
+      <Param Name="Avoid +20" SID="SID_回避＋２０" SP="2500" Type="Inherit" DLC="0" />
+      <Param Name="Avoid +25" SID="SID_回避＋２５" SP="3500" Type="Inherit" DLC="0" />
+      <Param Name="Avoid +30" SID="SID_回避＋３０" SP="4500" Type="Inherit" DLC="0" />
+      <Param Name="Axe Guard 1" SID="SID_対斧術１" SP="200" Type="Inherit" DLC="1" />
+      <Param Name="Axe Guard 2" SID="SID_対斧術２" SP="400" Type="Inherit" DLC="1" />
+      <Param Name="Axe Guard 3" SID="SID_対斧術３" SP="600" Type="Inherit" DLC="1" />
+      <Param Name="Axe Guard 4" SID="SID_対斧術４" SP="800" Type="Inherit" DLC="1" />
+      <Param Name="Axe Guard 5" SID="SID_対斧術５" SP="1000" Type="Inherit" DLC="1" />
+      <Param Name="Axe Power 1" SID="SID_斧術・剛１" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Axe Power 2" SID="SID_斧術・剛２" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Axe Power 3" SID="SID_斧術・剛３" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Axe Power 4" SID="SID_斧術・剛４" SP="4000" Type="Inherit" DLC="0" />
+      <Param Name="Axe Power 5" SID="SID_斧術・剛５" SP="5000" Type="Inherit" DLC="0" />
+      <Param Name="Axebreaker" SID="SID_斧殺し" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Back at You" SID="SID_水鏡" SP="" Type="Class" DLC="0" />
+      <Param Name="Bane" SID="SID_瞬殺" SP="" Type="Ring" DLC="0" />
+      <Param Name="Battlewise" SID="SID_百戦練磨" SP="" Type="Ring" DLC="0" />
+      <Param Name="Big Personality" SID="SID_煌めく理力" SP="" Type="Personal" DLC="0" />
+      <Param Name="Blazing Lion" SID="SID_ロイエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Blinding Flash" SID="SID_光彩奪目！" SP="" Type="Personal" DLC="0" />
+      <Param Name="Block Recovery" SID="SID_復帰阻止" SP="1500" Type="Sync" DLC="1" />
+      <Param Name="Blood Fury" SID="SID_戦の血" SP="" Type="Personal" DLC="0" />
+      <Param Name="Blue Skies" SID="SID_蒼穹" SP="" Type="Sync" DLC="0" />
+      <Param Name="Blue Skies+" SID="SID_蒼穹＋" SP="" Type="Sync" DLC="0" />
+      <Param Name="Bond Blast" SID="SID_リュールエンゲージ技共同" SP="" Type="Attack" DLC="0" />
+      <Param Name="Bond Breaker" SID="SID_チェインアタック威力軽減" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Bond Breaker+" SID="SID_チェインアタック威力軽減＋" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Bond Forger" SID="SID_絆を繋薙くもの" SP="" Type="Sync" DLC="0" />
+      <Param Name="Bond Forger+" SID="SID_絆を繋薙くもの＋" SP="" Type="Sync" DLC="0" />
+      <Param Name="Bonded Shield" SID="SID_絆盾" SP="" Type="Engage" DLC="0" />
+      <Param Name="Book of Worlds" SID="SID_異界の力" SP="300" Type="Sync" DLC="1" />
+      <Param Name="Boon of Elyos" SID="SID_エレオスの祝福" SP="" Type="Sync" DLC="0" />
+      <Param Name="Bow Agility 1" SID="SID_弓術・柔１" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Bow Agility 2" SID="SID_弓術・柔２" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Bow Agility 3" SID="SID_弓術・柔３" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Bow Agility 4" SID="SID_弓術・柔４" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Bow Agility 5" SID="SID_弓術・柔５" SP="4000" Type="Inherit" DLC="0" />
+      <Param Name="Bow Focus 1" SID="SID_弓術・心１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Bow Focus 2" SID="SID_弓術・心２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Bow Focus 3" SID="SID_弓術・心３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Bow Focus 4" SID="SID_弓術・心４" SP="700" Type="Inherit" DLC="0" />
+      <Param Name="Bow Focus 5" SID="SID_弓術・心５" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Bow Guard 1" SID="SID_対弓術１" SP="200" Type="Inherit" DLC="1" />
+      <Param Name="Bow Guard 2" SID="SID_対弓術２" SP="400" Type="Inherit" DLC="1" />
+      <Param Name="Bow Guard 3" SID="SID_対弓術３" SP="600" Type="Inherit" DLC="1" />
+      <Param Name="Bow Guard 4" SID="SID_対弓術４" SP="800" Type="Inherit" DLC="1" />
+      <Param Name="Bow Guard 5" SID="SID_対弓術５" SP="1000" Type="Inherit" DLC="1" />
+      <Param Name="Bowbreaker" SID="SID_弓殺し" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Brave Assist" SID="SID_助太刀" SP="" Type="Class" DLC="0" />
+      <Param Name="Bravery" SID="SID_勇空" SP="" Type="Sync" DLC="0" />
+      <Param Name="Bravery+" SID="SID_勇空＋" SP="" Type="Sync" DLC="0" />
+      <Param Name="Break Defenses" SID="SID_ブレイク時追撃" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Brute Force" SID="SID_力まかせ" SP="1500" Type="Sync" DLC="1" />
+      <Param Name="Build +3" SID="SID_体格＋３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Build +4" SID="SID_体格＋４" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Build +5" SID="SID_体格＋５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Bushido" SID="SID_武士道" SP="" Type="Ring" DLC="0" />
+      <Param Name="Call Doubles" SID="SID_残像" SP="" Type="Engage" DLC="0" />
+      <Param Name="Canter" SID="SID_再移動" SP="1000" Type="Sync" DLC="0" />
+      <Param Name="Canter+" SID="SID_再移動＋" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Careful Aim" SID="SID_狙撃" SP="" Type="Class" DLC="0" />
+      <Param Name="Cataclysm" SID="SID_セネリオエンゲージ技" SP="" Type="Attack" DLC="1" />
+      <Param Name="Cataclysm+" SID="SID_セネリオエンゲージ技＋" SP="" Type="Attack" DLC="1" />
+      <Param Name="Certain Blow" SID="SID_凶鳥の一撃" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Chaos Style" SID="SID_背理の法" SP="" Type="Class" DLC="0" />
+      <Param Name="Charm" SID="SID_カリスマ" SP="800" Type="Sync" DLC="1" />
+      <Param Name="Charmer" SID="SID_人たらし" SP="" Type="Personal" DLC="0" />
+      <Param Name="Chivalry" SID="SID_騎士道" SP="" Type="Ring" DLC="0" />
+      <Param Name="Clear the Way" SID="SID_移動補助" SP="" Type="Class" DLC="0" />
+      <Param Name="Cleric" SID="SID_杖使い" SP="" Type="Sync" DLC="0" />
+      <Param Name="Cleric+" SID="SID_杖使い＋" SP="" Type="Sync" DLC="0" />
+      <Param Name="Cleric++" SID="SID_杖使い＋＋" SP="" Type="Sync" DLC="0" />
+      <Param Name="Combat Arts" SID="SID_戦技" SP="" Type="Engage" DLC="1" />
+      <Param Name="Contemplative" SID="SID_次への備え" SP="" Type="Personal" DLC="0" />
+      <Param Name="Contract" SID="SID_契約" SP="" Type="Engage" DLC="1" />
+      <Param Name="Convoy" SID="SID_輸送隊" SP="" Type="Class" DLC="1" />
+      <Param Name="Cornered Beast" SID="SID_噛描" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Crimson Cheer" SID="SID_緋い声援" SP="" Type="Personal" DLC="0" />
+      <Param Name="Curious Dance" SID="SID_神秘の踊り" SP="" Type="Personal" DLC="0" />
+      <Param Name="Dark Augment" SID="SID_増幅_闇" SP="" Type="Engage" DLC="0" />
+      <Param Name="Dark Gallop" SID="SID_迅走_闇" SP="" Type="Engage" DLC="0" />
+      <Param Name="Dark Inferno" SID="SID_カミラエンゲージ技" SP="" Type="Attack" DLC="1" />
+      <Param Name="Dark Inferno+" SID="SID_カミラエンゲージ技＋" SP="" Type="Attack" DLC="1" />
+      <Param Name="Dark Warp" SID="SID_セリカエンゲージ技_闇" SP="" Type="Attack" DLC="0" />
+      <Param Name="Darting Blow" SID="SID_飛燕の一撃" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Darting Stance" SID="SID_飛燕の構え" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Deadly Blade" SID="SID_必殺剣" SP="" Type="Ring" DLC="0" />
+      <Param Name="Death Blow" SID="SID_鬼神の一撃" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Decisive Strike" SID="SID_後始末" SP="500" Type="Sync" DLC="1" />
+      <Param Name="Decisive Strike+" SID="SID_後始末＋" SP="1000" Type="Sync" DLC="1" />
+      <Param Name="Defense +1" SID="SID_守備＋１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Defense +2" SID="SID_守備＋２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Defense +3" SID="SID_守備＋３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Defense +4" SID="SID_守備＋４" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Defense +5" SID="SID_守備＋５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Demolish" SID="SID_破壊" SP="200" Type="Sync" DLC="0" />
+      <Param Name="Detoxify" SID="SID_デトックス" SP="250" Type="Sync" DLC="1" />
+      <Param Name="Dexterity +1" SID="SID_技＋１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Dexterity +2" SID="SID_技＋２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Dexterity +3" SID="SID_技＋３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Dexterity +4" SID="SID_技＋４" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Dexterity +5" SID="SID_技＋５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Diabolical Dance" SID="SID_ベレトエンゲージ技_闇" SP="" Type="Attack" DLC="0" />
+      <Param Name="Diffuse Healer" SID="SID_気の拡散" SP="" Type="Class" DLC="0" />
+      <Param Name="Dignity of Solm" SID="SID_王の尊厳" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Dire Thunder" SID="SID_ダイムサンダ" SP="" Type="Ring" DLC="0" />
+      <Param Name="Disarming Sigh" SID="SID_溜め息" SP="" Type="Personal" DLC="0" />
+      <Param Name="Divine Blessing" SID="SID_チキエンゲージ技" SP="" Type="Attack" DLC="1" />
+      <Param Name="Divine Blessing+" SID="SID_チキエンゲージ技＋" SP="" Type="Attack" DLC="1" />
+      <Param Name="Divine Pulse" SID="SID_天刻の拍動" SP="250" Type="Sync" DLC="0" />
+      <Param Name="Divine Pulse+" SID="SID_天刻の拍動＋" SP="500" Type="Sync" DLC="0" />
+      <Param Name="Divine Speed" SID="SID_カウンター" SP="" Type="Engage" DLC="0" />
+      <Param Name="Divine Spirit" SID="SID_神竜気" SP="" Type="Class" DLC="0" />
+      <Param Name="Divinely Inspiring" SID="SID_神竜の結束" SP="" Type="Personal" DLC="0" />
+      <Param Name="Dodge +10" SID="SID_必殺回避＋１０" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Dodge +15" SID="SID_必殺回避＋１５" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Dodge +20" SID="SID_必殺回避＋２０" SP="1500" Type="Inherit" DLC="0" />
+      <Param Name="Dodge +25" SID="SID_必殺回避＋２５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Dodge +30" SID="SID_必殺回避＋３０" SP="2500" Type="Inherit" DLC="0" />
+      <Param Name="Draconic Form" SID="SID_竜化" SP="" Type="Engage" DLC="1" />
+      <Param Name="Draconic Hex" SID="SID_竜呪" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Dragon Blast" SID="SID_リュールエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Dragon Vein" SID="SID_竜脈" SP="" Type="Sync" DLC="0" />
+      <Param Name="Dragon Vein" SID="SID_竜脈・異" SP="" Type="Sync" DLC="1" />
+      <Param Name="Draw Back" SID="SID_引き寄せ" SP="" Type="Ring" DLC="0" />
+      <Param Name="Dreadful Aura" SID="SID_呪縛" SP="" Type="Engage" DLC="0" />
+      <Param Name="Dual Assist" SID="SID_デュアルアシスト" SP="1000" Type="Sync" DLC="0" />
+      <Param Name="Dual Assist+" SID="SID_デュアルアシスト＋" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Dual Strike" SID="SID_絆の力" SP="" Type="Sync" DLC="0" />
+      <Param Name="Dual Support" SID="SID_デュアルサポート" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Duelist's Blow" SID="SID_清流の一撃" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Echo" SID="SID_重唱" SP="" Type="Engage" DLC="0" />
+      <Param Name="Eclipse Brace" SID="SID_日月の腕輪" SP="" Type="Sync" DLC="0" />
+      <Param Name="Eclipse Brace+" SID="SID_日月の腕輪＋" SP="" Type="Sync" DLC="0" />
+      <Param Name="Energized" SID="SID_筋肉増強剤" SP="" Type="Personal" DLC="0" />
+      <Param Name="Expertise" SID="SID_努力の才" SP="" Type="Personal" DLC="0" />
+      <Param Name="Fair Fight" SID="SID_真っ向勝負" SP="" Type="Personal" DLC="0" />
+      <Param Name="Fairy-Tale Folk" SID="SID_絵になる二人" SP="" Type="Personal" DLC="0" />
+      <Param Name="Favorite Food" SID="SID_大好物" SP="200" Type="Sync" DLC="0" />
+      <Param Name="Fell Protection" SID="SID_邪竜の救済" SP="" Type="Personal" DLC="0" />
+      <Param Name="Fell Spirit" SID="SID_邪竜気" SP="" Type="Class" DLC="0" />
+      <Param Name="Fierce Bloom" SID="SID_戦場の花" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Fierce Stance" SID="SID_鬼神の構え" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Final Say" SID="SID_傷をつけたわね" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Flare" SID="SID_陽光" SP="" Type="Engage" DLC="1" />
+      <Param Name="Flickering Flower" SID="SID_閃花" SP="" Type="Ring" DLC="0" />
+      <Param Name="Fortify Def" SID="SID_絆の指輪_シャロン" SP="" Type="Ring" DLC="0" />
+      <Param Name="Friendly Boost" SID="SID_ムードメーカー" SP="" Type="Personal" DLC="1" />
+      <Param Name="Friendly Rivalry" SID="SID_切磋琢磨" SP="" Type="Sync" DLC="1" />
+      <Param Name="Frost Domain" SID="SID_氷の領域" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Gallop" SID="SID_迅走" SP="" Type="Engage" DLC="0" />
+      <Param Name="Gambit" SID="SID_計略" SP="" Type="Sync" DLC="1" />
+      <Param Name="Generosity" SID="SID_大盤振る舞い" SP="" Type="Personal" DLC="0" />
+      <Param Name="Gentility" SID="SID_優風" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Gentility+" SID="SID_優風＋" SP="3000" Type="Sync" DLC="0" />
+      <Param Name="Gentle Flower" SID="SID_平和の花" SP="" Type="Personal" DLC="0" />
+      <Param Name="Geosphere" SID="SID_地玉の加護" SP="500" Type="Sync" DLC="1" />
+      <Param Name="Geosphere+" SID="SID_地玉の加護＋" SP="1000" Type="Sync" DLC="1" />
+      <Param Name="Get Behind Me!" SID="SID_僕が守ります！" SP="" Type="Personal" DLC="0" />
+      <Param Name="Giga Excalibur" SID="SID_ギガスカリバー" SP="" Type="Ring" DLC="0" />
+      <Param Name="Giga Levin Sword" SID="SID_クロムエンゲージ技" SP="" Type="Attack" DLC="1" />
+      <Param Name="Giga Levin Sword+" SID="SID_クロムエンゲージ技＋" SP="" Type="Attack" DLC="1" />
+      <Param Name="Goddess Dance" SID="SID_ベレトエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Golden Lotus" SID="SID_金蓮" SP="" Type="Class" DLC="0" />
+      <Param Name="Grasping Void" SID="SID_虚空" SP="" Type="Class" DLC="0" />
+      <Param Name="Great Aether" SID="SID_アイクエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Great Sacrifice" SID="SID_ミカヤエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Great Thunder" SID="SID_轟雷" SP="" Type="Ring" DLC="0" />
+      <Param Name="Groundswell" SID="SID_地脈吸収" SP="500" Type="Sync" DLC="1" />
+      <Param Name="Headlong Rush" SID="SID_猛進" SP="200" Type="Sync" DLC="0" />
+      <Param Name="Healing Light" SID="SID_癒しの響き" SP="200" Type="Sync" DLC="0" />
+      <Param Name="Healtouch" SID="SID_いやしの心" SP="" Type="Ring" DLC="0" />
+      <Param Name="Heavy Attack" SID="SID_重撃" SP="3000" Type="Sync" DLC="1" />
+      <Param Name="Hit +10" SID="SID_命中＋１０" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Hit +15" SID="SID_命中＋１５" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Hit +20" SID="SID_命中＋２０" SP="1500" Type="Inherit" DLC="0" />
+      <Param Name="Hit +25" SID="SID_命中＋２５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Hit +30" SID="SID_命中＋３０" SP="2500" Type="Inherit" DLC="0" />
+      <Param Name="Hobble" SID="SID_足狙い" SP="" Type="Class" DLC="0" />
+      <Param Name="Hold Out" SID="SID_踏ん張り" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Hold Out+" SID="SID_踏ん張り＋" SP="3000" Type="Sync" DLC="0" />
+      <Param Name="Hold Out++" SID="SID_踏ん張り＋＋" SP="4000" Type="Sync" DLC="0" />
+      <Param Name="Hold Out+++" SID="SID_踏ん張り＋＋＋" SP="5000" Type="Sync" DLC="0" />
+      <Param Name="Holy Aura" SID="SID_リュール邪竜特効" SP="" Type="Sync" DLC="0" />
+      <Param Name="Holy Shield" SID="SID_神竜の加護" SP="" Type="Sync" DLC="0" />
+      <Param Name="Holy Stance" SID="SID_異形リベンジ" SP="100" Type="Sync" DLC="0" />
+      <Param Name="Holy Stance+" SID="SID_異形リベンジ＋" SP="500" Type="Sync" DLC="0" />
+      <Param Name="Holy Stance++" SID="SID_異形リベンジ＋＋" SP="1000" Type="Sync" DLC="0" />
+      <Param Name="Houses Unite" SID="SID_三級長エンゲージ技" SP="" Type="Attack" DLC="1" />
+      <Param Name="Houses Unite+" SID="SID_三級長エンゲージ技＋" SP="" Type="Attack" DLC="1" />
+      <Param Name="HP +10" SID="SID_ＨＰ＋１０" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="HP +12" SID="SID_ＨＰ＋１２" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="HP +15" SID="SID_ＨＰ＋１５" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="HP +5" SID="SID_ＨＰ＋５" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="HP +7" SID="SID_ＨＰ＋７" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="HP/Lck +10" SID="SID_ＨＰ・幸運＋１０" SP="3600" Type="Inherit" DLC="1" />
+      <Param Name="HP/Lck +2" SID="SID_ＨＰ・幸運＋２" SP="200" Type="Inherit" DLC="1" />
+      <Param Name="HP/Lck +4" SID="SID_ＨＰ・幸運＋４" SP="600" Type="Inherit" DLC="1" />
+      <Param Name="HP/Lck +6" SID="SID_ＨＰ・幸運＋６" SP="1100" Type="Inherit" DLC="1" />
+      <Param Name="HP/Lck +8" SID="SID_ＨＰ・幸運＋８" SP="1900" Type="Inherit" DLC="1" />
+      <Param Name="Ignis" SID="SID_華炎" SP="" Type="Class" DLC="0" />
+      <Param Name="Impenetrable" SID="SID_鉄壁" SP="" Type="Engage" DLC="1" />
+      <Param Name="Instruct" SID="SID_先生" SP="" Type="Engage" DLC="0" />
+      <Param Name="Keen Insight" SID="SID_慧眼" SP="1500" Type="Sync" DLC="1" />
+      <Param Name="Keen Insight+" SID="SID_慧眼＋" SP="3000" Type="Sync" DLC="1" />
+      <Param Name="Knife Guard 1" SID="SID_対短剣術１" SP="200" Type="Inherit" DLC="1" />
+      <Param Name="Knife Guard 2" SID="SID_対短剣術２" SP="400" Type="Inherit" DLC="1" />
+      <Param Name="Knife Guard 3" SID="SID_対短剣術３" SP="600" Type="Inherit" DLC="1" />
+      <Param Name="Knife Guard 4" SID="SID_対短剣術４" SP="800" Type="Inherit" DLC="1" />
+      <Param Name="Knife Guard 5" SID="SID_対短剣術５" SP="1000" Type="Inherit" DLC="1" />
+      <Param Name="Knife Precision 1" SID="SID_短剣術１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Knife Precision 2" SID="SID_短剣術２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Knife Precision 3" SID="SID_短剣術３" SP="700" Type="Inherit" DLC="0" />
+      <Param Name="Knife Precision 4" SID="SID_短剣術４" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Knife Precision 5" SID="SID_短剣術５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Knifebreaker" SID="SID_短刀殺し" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Knightly Code" SID="SID_理想の騎士像" SP="" Type="Personal" DLC="1" />
+      <Param Name="Knightly Escort" SID="SID_エスコート" SP="" Type="Personal" DLC="0" />
+      <Param Name="Laguz Friend" SID="SID_アイクエンゲージスキル" SP="" Type="Engage" DLC="0" />
+      <Param Name="Lance Agility 1" SID="SID_槍術・柔１" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Lance Agility 2" SID="SID_槍術・柔２" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Lance Agility 3" SID="SID_槍術・柔３" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Lance Agility 4" SID="SID_槍術・柔４" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Lance Agility 5" SID="SID_槍術・柔５" SP="4000" Type="Inherit" DLC="0" />
+      <Param Name="Lance Guard 1" SID="SID_対槍術１" SP="200" Type="Inherit" DLC="1" />
+      <Param Name="Lance Guard 2" SID="SID_対槍術２" SP="400" Type="Inherit" DLC="1" />
+      <Param Name="Lance Guard 3" SID="SID_対槍術３" SP="600" Type="Inherit" DLC="1" />
+      <Param Name="Lance Guard 4" SID="SID_対槍術４" SP="800" Type="Inherit" DLC="1" />
+      <Param Name="Lance Guard 5" SID="SID_対槍術５" SP="1000" Type="Inherit" DLC="1" />
+      <Param Name="Lance Power 1" SID="SID_槍術・剛１" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Lance Power 2" SID="SID_槍術・剛２" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Lance Power 3" SID="SID_槍術・剛３" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Lance Power 4" SID="SID_槍術・剛４" SP="4000" Type="Inherit" DLC="0" />
+      <Param Name="Lance Power 5" SID="SID_槍術・剛５" SP="5000" Type="Inherit" DLC="0" />
+      <Param Name="Lancebreaker" SID="SID_槍殺し" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Let Fly" SID="SID_全弾発射" SP="" Type="Class" DLC="1" />
+      <Param Name="Lethality" SID="SID_滅殺" SP="" Type="Ring" DLC="0" />
+      <Param Name="Level Boost" SID="SID_限界突破" SP="300" Type="Sync" DLC="1" />
+      <Param Name="Life and Death" SID="SID_死線" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Lifesphere" SID="SID_命玉の加護" SP="1000" Type="Sync" DLC="1" />
+      <Param Name="Lifesphere+" SID="SID_命玉の加護＋" SP="2000" Type="Sync" DLC="1" />
+      <Param Name="Lifesphere++" SID="SID_命玉の加護＋＋" SP="3000" Type="Sync" DLC="1" />
+      <Param Name="Lightsphere" SID="SID_光玉の加護" SP="900" Type="Sync" DLC="1" />
+      <Param Name="Lineage" SID="SID_血統" SP="150" Type="Sync" DLC="1" />
+      <Param Name="Lodestar Rush" SID="SID_マルスエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Lost n Found" SID="SID_拾得" SP="250" Type="Sync" DLC="0" />
+      <Param Name="Luck +10" SID="SID_幸運＋１０" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Luck +12" SID="SID_幸運＋１２" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Luck +2" SID="SID_幸運＋２" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Luck +4" SID="SID_幸運＋４" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Luck +6" SID="SID_幸運＋６" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Luck +8" SID="SID_幸運＋８" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Luna" SID="SID_月光" SP="" Type="Class" DLC="0" />
+      <Param Name="Lunar Brace" SID="SID_月の腕輪" SP="3000" Type="Sync" DLC="0" />
+      <Param Name="Lunar Brace+" SID="SID_月の腕輪＋" SP="5000" Type="Sync" DLC="0" />
+      <Param Name="Mag/Dex +1" SID="SID_魔力・技＋１" SP="700" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Dex +2" SID="SID_魔力・技＋２" SP="1600" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Dex +3" SID="SID_魔力・技＋３" SP="4200" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Dex +4" SID="SID_魔力・技＋４" SP="6000" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Dex +5" SID="SID_魔力・技＋５" SP="8400" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Res +1" SID="SID_魔力・魔防＋１" SP="700" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Res +2" SID="SID_魔力・魔防＋２" SP="1600" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Res +3" SID="SID_魔力・魔防＋３" SP="4200" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Res +4" SID="SID_魔力・魔防＋４" SP="6000" Type="Inherit" DLC="1" />
+      <Param Name="Mag/Res +5" SID="SID_魔力・魔防＋５" SP="8400" Type="Inherit" DLC="1" />
+      <Param Name="Magic +2" SID="SID_魔力＋２" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Magic +3" SID="SID_魔力＋３" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Magic +4" SID="SID_魔力＋４" SP="4000" Type="Inherit" DLC="0" />
+      <Param Name="Magic +5" SID="SID_魔力＋５" SP="5000" Type="Inherit" DLC="0" />
+      <Param Name="Magic Guard 1" SID="SID_対魔道１" SP="200" Type="Inherit" DLC="1" />
+      <Param Name="Magic Guard 2" SID="SID_対魔道２" SP="400" Type="Inherit" DLC="1" />
+      <Param Name="Magic Guard 3" SID="SID_対魔道３" SP="600" Type="Inherit" DLC="1" />
+      <Param Name="Magic Guard 4" SID="SID_対魔道４" SP="800" Type="Inherit" DLC="1" />
+      <Param Name="Magic Guard 5" SID="SID_対魔道５" SP="1000" Type="Inherit" DLC="1" />
+      <Param Name="Make a Killing" SID="SID_一攫千金" SP="" Type="Personal" DLC="0" />
+      <Param Name="Meditation" SID="SID_瞑想" SP="" Type="Personal" DLC="0" />
+      <Param Name="Mentorship" SID="SID_師の導き" SP="250" Type="Sync" DLC="0" />
+      <Param Name="Merciless" SID="SID_無慈悲" SP="" Type="Class" DLC="0" />
+      <Param Name="Mercy" SID="SID_慈悲" SP="" Type="Ring" DLC="0" />
+      <Param Name="Miasma Domain" SID="SID_瘴気の領域" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Miracle" SID="SID_祈り" SP="" Type="Ring" DLC="0" />
+      <Param Name="Momentum" SID="SID_助走" SP="1000" Type="Sync" DLC="0" />
+      <Param Name="Momentum+" SID="SID_助走＋" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Moved to Tears" SID="SID_涙腺崩壊" SP="" Type="Personal" DLC="0" />
+      <Param Name="Night and Day" SID="SID_オルタネイト" SP="" Type="Engage" DLC="0" />
+      <Param Name="No Distractions" SID="SID_集中" SP="" Type="Class" DLC="0" />
+      <Param Name="Not *Quite*" SID="SID_『次』はない" SP="" Type="Personal" DLC="0" />
+      <Param Name="Other Half" SID="SID_半身" SP="" Type="Engage" DLC="1" />
+      <Param Name="Override" SID="SID_シグルドエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Pack Hunter" SID="SID_異形狼連携" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Pair Up" SID="SID_防陣" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Paraselene" SID="SID_幻月" SP="" Type="Ring" DLC="0" />
+      <Param Name="Party Animal" SID="SID_大集会" SP="" Type="Personal" DLC="0" />
+      <Param Name="Pass" SID="SID_すり抜け" SP="" Type="Class" DLC="0" />
+      <Param Name="Perceptive" SID="SID_見切り" SP="250" Type="Sync" DLC="0" />
+      <Param Name="Perceptive+" SID="SID_見切り＋" SP="500" Type="Sync" DLC="0" />
+      <Param Name="Piercing Glare" SID="SID_角の睨み" SP="" Type="Sync" DLC="1" />
+      <Param Name="Pincer Attack" SID="SID_挟撃" SP="" Type="Class" DLC="0" />
+      <Param Name="Pivot" SID="SID_回り込み" SP="" Type="Class" DLC="0" />
+      <Param Name="Poison Strike" SID="SID_蛇毒" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Protective" SID="SID_守護者" SP="" Type="Personal" DLC="1" />
+      <Param Name="Quadruple Hit" SID="SID_リーフエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Quality Time" SID="SID_スキンシップ" SP="250" Type="Sync" DLC="0" />
+      <Param Name="Quality Time+" SID="SID_スキンシップ＋" SP="500" Type="Sync" DLC="0" />
+      <Param Name="Quick Riposte" SID="SID_切り返し" SP="2000" Type="Sync" DLC="1" />
+      <Param Name="Quick Riposte+" SID="SID_切り返し＋" SP="3000" Type="Sync" DLC="1" />
+      <Param Name="Racket of Solm" SID="SID_ソルムの騒音" SP="" Type="Personal" DLC="0" />
+      <Param Name="Raging Fire" SID="SID_業火" SP="" Type="Ring" DLC="0" />
+      <Param Name="Ragnarok Warp" SID="SID_セリカエンゲージ技_闇_M020" SP="" Type="Attack" DLC="0" />
+      <Param Name="Rally Spectrum" SID="SID_七色の叫び" SP="1500" Type="Sync" DLC="1" />
+      <Param Name="Rally Spectrum+" SID="SID_七色の叫び＋" SP="2000" Type="Sync" DLC="1" />
+      <Param Name="Reforge" SID="SID_手助け" SP="" Type="Class" DLC="0" />
+      <Param Name="Renewal" SID="SID_回復" SP="" Type="Ring" DLC="0" />
+      <Param Name="Reposition" SID="SID_引き戻し" SP="200" Type="Sync" DLC="0" />
+      <Param Name="Reprisal" SID="SID_血讐" SP="5000" Type="Sync" DLC="1" />
+      <Param Name="Reprisal+" SID="SID_血讐＋" SP="6000" Type="Sync" DLC="1" />
+      <Param Name="Resistance +2" SID="SID_魔防＋２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Resistance +3" SID="SID_魔防＋３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Resistance +4" SID="SID_魔防＋４" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Resistance +5" SID="SID_魔防＋５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Resolve" SID="SID_勇将" SP="1000" Type="Sync" DLC="0" />
+      <Param Name="Resolve+" SID="SID_勇将＋" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Resonance" SID="SID_共鳴の黒魔法" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Resonance+" SID="SID_共鳴の黒魔法＋" SP="3000" Type="Sync" DLC="0" />
+      <Param Name="Rightful Ruler" SID="SID_王の器" SP="" Type="Ring" DLC="0" />
+      <Param Name="Rise Above" SID="SID_超越" SP="" Type="Engage" DLC="0" />
+      <Param Name="Rivalry" SID="SID_負けず嫌い" SP="" Type="Personal" DLC="1" />
+      <Param Name="Run Through" SID="SID_切り抜け" SP="" Type="Class" DLC="0" />
+      <Param Name="Sacred Twins" SID="SID_双聖" SP="" Type="Engage" DLC="0" />
+      <Param Name="Sandstorm" SID="SID_砂陣" SP="" Type="Class" DLC="0" />
+      <Param Name="Savage Blow" SID="SID_死の吐息" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Seal Defense" SID="SID_守備封じ" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Seal Magic" SID="SID_魔力封じ" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Seal Resistance" SID="SID_魔防封じ" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Seal Speed" SID="SID_速さ封じ" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Seal Strength" SID="SID_力封じ" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Seconds?" SID="SID_料理再現" SP="" Type="Personal" DLC="0" />
+      <Param Name="Self-Defense" SID="SID_保身" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Self-Destruct" SID="SID_自壊" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Self-Healing" SID="SID_自己回復" SP="" Type="Class" DLC="0" />
+      <Param Name="Self-Improver" SID="SID_自己研鑽" SP="" Type="Personal" DLC="0" />
+      <Param Name="Share Spoils" SID="SID_戦果委譲" SP="" Type="Personal" DLC="0" />
+      <Param Name="Shove" SID="SID_体当たり" SP="" Type="Ring" DLC="0" />
+      <Param Name="Show-Off" SID="SID_能力誇示" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Silence Ward" SID="SID_サイレス無効" SP="200" Type="Sync" DLC="0" />
+      <Param Name="Single-Minded" SID="SID_執着" SP="" Type="Personal" DLC="0" />
+      <Param Name="Sink Below" SID="SID_超越_闇" SP="" Type="Engage" DLC="0" />
+      <Param Name="Smash+" SID="SID_スマッシュ＋" SP="" Type="Class" DLC="0" />
+      <Param Name="Soar" SID="SID_天駆" SP="" Type="Engage" DLC="1" />
+      <Param Name="Sol" SID="SID_太陽" SP="" Type="Class" DLC="0" />
+      <Param Name="Solar Brace" SID="SID_太陽の腕輪" SP="" Type="Sync" DLC="0" />
+      <Param Name="Solar Brace+" SID="SID_太陽の腕輪＋" SP="" Type="Sync" DLC="0" />
+      <Param Name="Soulblade" SID="SID_魔法剣" SP="" Type="Class" DLC="0" />
+      <Param Name="SP Conversion" SID="SID_SPコンバート" SP="300" Type="Sync" DLC="1" />
+      <Param Name="Spd/Dex +1" SID="SID_技・速さ＋１" SP="250" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Dex +2" SID="SID_技・速さ＋２" SP="700" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Dex +3" SID="SID_技・速さ＋３" SP="1200" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Dex +4" SID="SID_技・速さ＋４" SP="2400" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Dex +5" SID="SID_技・速さ＋５" SP="4800" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Res +1" SID="SID_速さ・魔防＋１" SP="250" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Res +2" SID="SID_速さ・魔防＋２" SP="700" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Res +3" SID="SID_速さ・魔防＋３" SP="1200" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Res +4" SID="SID_速さ・魔防＋４" SP="2400" Type="Inherit" DLC="1" />
+      <Param Name="Spd/Res +5" SID="SID_速さ・魔防＋５" SP="4800" Type="Inherit" DLC="1" />
+      <Param Name="Special Dance" SID="SID_特別な踊り" SP="" Type="Class" DLC="0" />
+      <Param Name="Special Guard 1" SID="SID_対特殊１" SP="200" Type="Inherit" DLC="1" />
+      <Param Name="Special Guard 2" SID="SID_対特殊２" SP="400" Type="Inherit" DLC="1" />
+      <Param Name="Special Guard 3" SID="SID_対特殊３" SP="600" Type="Inherit" DLC="1" />
+      <Param Name="Special Guard 4" SID="SID_対特殊４" SP="800" Type="Inherit" DLC="1" />
+      <Param Name="Special Guard 5" SID="SID_対特殊５" SP="1000" Type="Inherit" DLC="1" />
+      <Param Name="Speed +1" SID="SID_速さ＋１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Speed +2" SID="SID_速さ＋２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Speed +3" SID="SID_速さ＋３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Speed +4" SID="SID_速さ＋４" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Speed +5" SID="SID_速さ＋５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Speedtaker" SID="SID_速さの吸収" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Spell Harmony" SID="SID_魔力増幅" SP="" Type="Class" DLC="0" />
+      <Param Name="Spirit Strike" SID="SID_狂乱の一撃" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Spur Attack" SID="SID_絆の指輪_アルフォンス" SP="" Type="Ring" DLC="0" />
+      <Param Name="Spur Emblems" SID="SID_裏邪竜ノ子_兵種スキル" SP="" Type="Class" DLC="1" />
+      <Param Name="Spur Res" SID="SID_絆の指輪_アンナ" SP="" Type="Ring" DLC="0" />
+      <Param Name="Staff Mastery 1" SID="SID_信仰１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Staff Mastery 2" SID="SID_信仰２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Staff Mastery 3" SID="SID_信仰３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Staff Mastery 4" SID="SID_信仰４" SP="700" Type="Inherit" DLC="0" />
+      <Param Name="Staff Mastery 5" SID="SID_信仰５" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Stalwart" SID="SID_特効耐性" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Starsphere" SID="SID_星玉の加護" SP="1500" Type="Sync" DLC="1" />
+      <Param Name="Steady Stance" SID="SID_金剛の構え" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Stealth Assist" SID="SID_密かな支援" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Storm's Eye" SID="SID_ヘクトルエンゲージ技" SP="" Type="Attack" DLC="1" />
+      <Param Name="Storm's Eye+" SID="SID_ヘクトルエンゲージ技＋" SP="" Type="Attack" DLC="1" />
+      <Param Name="Str/Def +1" SID="SID_力・守備＋１" SP="700" Type="Inherit" DLC="1" />
+      <Param Name="Str/Def +2" SID="SID_力・守備＋２" SP="1600" Type="Inherit" DLC="1" />
+      <Param Name="Str/Def +3" SID="SID_力・守備＋３" SP="4200" Type="Inherit" DLC="1" />
+      <Param Name="Str/Def +4" SID="SID_力・守備＋４" SP="6000" Type="Inherit" DLC="1" />
+      <Param Name="Str/Def +5" SID="SID_力・守備＋５" SP="8400" Type="Inherit" DLC="1" />
+      <Param Name="Str/Dex +1" SID="SID_力・技＋１" SP="700" Type="Inherit" DLC="1" />
+      <Param Name="Str/Dex +2" SID="SID_力・技＋２" SP="1600" Type="Inherit" DLC="1" />
+      <Param Name="Str/Dex +3" SID="SID_力・技＋３" SP="4200" Type="Inherit" DLC="1" />
+      <Param Name="Str/Dex +4" SID="SID_力・技＋４" SP="6000" Type="Inherit" DLC="1" />
+      <Param Name="Str/Dex +5" SID="SID_力・技＋５" SP="8400" Type="Inherit" DLC="1" />
+      <Param Name="Strength +1" SID="SID_力＋１" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Strength +2" SID="SID_力＋２" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Strength +3" SID="SID_力＋３" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Strength +4" SID="SID_力＋４" SP="4000" Type="Inherit" DLC="0" />
+      <Param Name="Strength +5" SID="SID_力＋５" SP="5000" Type="Inherit" DLC="0" />
+      <Param Name="Strength +6" SID="SID_力＋６" SP="6000" Type="Inherit" DLC="0" />
+      <Param Name="Strong Arm" SID="SID_剛腕" SP="" Type="Ring" DLC="0" />
+      <Param Name="Stunning Smile" SID="SID_微笑み" SP="" Type="Personal" DLC="0" />
+      <Param Name="Summon Hero" SID="SID_ヴェロニカエンゲージ技" SP="" Type="Attack" DLC="1" />
+      <Param Name="Sure Strike" SID="SID_必的" SP="" Type="Ring" DLC="0" />
+      <Param Name="Surprise Attack" SID="SID_不意打ち" SP="3000" Type="Sync" DLC="1" />
+      <Param Name="Survival Plan" SID="SID_生存戦略" SP="" Type="Personal" DLC="1" />
+      <Param Name="Swap" SID="SID_入れ替え" SP="" Type="Class" DLC="0" />
+      <Param Name="Sword Agility 1" SID="SID_剣術・柔１" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Sword Agility 2" SID="SID_剣術・柔２" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Agility 3" SID="SID_剣術・柔３" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Agility 4" SID="SID_剣術・柔４" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Agility 5" SID="SID_剣術・柔５" SP="4000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Focus 1" SID="SID_剣術・心１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Sword Focus 2" SID="SID_剣術・心２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Sword Focus 3" SID="SID_剣術・心３" SP="500" Type="Inherit" DLC="0" />
+      <Param Name="Sword Focus 4" SID="SID_剣術・心４" SP="700" Type="Inherit" DLC="0" />
+      <Param Name="Sword Focus 5" SID="SID_剣術・心５" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Guard 1" SID="SID_対剣術１" SP="200" Type="Inherit" DLC="1" />
+      <Param Name="Sword Guard 2" SID="SID_対剣術２" SP="400" Type="Inherit" DLC="1" />
+      <Param Name="Sword Guard 3" SID="SID_対剣術３" SP="600" Type="Inherit" DLC="1" />
+      <Param Name="Sword Guard 4" SID="SID_対剣術４" SP="800" Type="Inherit" DLC="1" />
+      <Param Name="Sword Guard 5" SID="SID_対剣術５" SP="1000" Type="Inherit" DLC="1" />
+      <Param Name="Sword Power 1" SID="SID_剣術・剛１" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Power 2" SID="SID_剣術・剛２" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Power 3" SID="SID_剣術・剛３" SP="3000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Power 4" SID="SID_剣術・剛４" SP="4000" Type="Inherit" DLC="0" />
+      <Param Name="Sword Power 5" SID="SID_剣術・剛５" SP="5000" Type="Inherit" DLC="0" />
+      <Param Name="Swordbreaker" SID="SID_剣殺し" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Sympathetic" SID="SID_伝道師" SP="" Type="Ring" DLC="0" />
+      <Param Name="This Ends Here" SID="SID_促す決着" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Tome Precision 1" SID="SID_魔道１" SP="100" Type="Inherit" DLC="0" />
+      <Param Name="Tome Precision 2" SID="SID_魔道２" SP="300" Type="Inherit" DLC="0" />
+      <Param Name="Tome Precision 3" SID="SID_魔道３" SP="700" Type="Inherit" DLC="0" />
+      <Param Name="Tome Precision 4" SID="SID_魔道４" SP="1000" Type="Inherit" DLC="0" />
+      <Param Name="Tome Precision 5" SID="SID_魔道５" SP="2000" Type="Inherit" DLC="0" />
+      <Param Name="Tomebreaker" SID="SID_魔殺し" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Torrential Roar" SID="SID_カムイエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Trained to Kill" SID="SID_殺しの技術" SP="" Type="Personal" DLC="0" />
+      <Param Name="Triangle Adept" SID="SID_相性激化" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Twin Strike" SID="SID_エイリークエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Unbreakable" SID="SID_ブレイク無効" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Unholy Stance" SID="SID_異形リベンジ＋＋_闇" SP="" Type="Sync" DLC="0" />
+      <Param Name="Unwavering" SID="SID_特効無効" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Unyielding" SID="SID_不屈" SP="100" Type="Sync" DLC="0" />
+      <Param Name="Unyielding+" SID="SID_不屈＋" SP="200" Type="Sync" DLC="0" />
+      <Param Name="Unyielding++" SID="SID_不屈＋＋" SP="300" Type="Sync" DLC="0" />
+      <Param Name="Vantage" SID="SID_待ち伏せ" SP="500" Type="Sync" DLC="0" />
+      <Param Name="Vantage+" SID="SID_待ち伏せ＋" SP="1000" Type="Sync" DLC="0" />
+      <Param Name="Vantage++" SID="SID_待ち伏せ＋＋" SP="2000" Type="Sync" DLC="0" />
+      <Param Name="Verdant Faith" SID="SID_碧の信仰" SP="" Type="Personal" DLC="0" />
+      <Param Name="Veteran" SID="SID_熟練者" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Veteran+" SID="SID_熟練者＋" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Warding Blow" SID="SID_明鏡の一撃" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Warding Stance" SID="SID_明鏡の構え" SP="" Type="Enemy" DLC="0" />
+      <Param Name="Warp Ragnarok" SID="SID_セリカエンゲージ技" SP="" Type="Attack" DLC="0" />
+      <Param Name="Weapon Insight" SID="SID_歴戦の勘" SP="" Type="Personal" DLC="0" />
+      <Param Name="Weapon Sync" SID="SID_武器シンクロ" SP="3000" Type="Sync" DLC="1" />
+      <Param Name="Weapon Sync+" SID="SID_武器シンクロ＋" SP="5000" Type="Sync" DLC="1" />
+      <Param Name="Wear Down" SID="SID_殺戮者" SP="" Type="Enemy" DLC="1" />
+      <Param Name="Will to Win" SID="SID_勝利への意思" SP="" Type="Personal" DLC="0" />
+      <Param Name="Wind Adept" SID="SID_旋風" SP="" Type="Ring" DLC="0" />
+      <Param Name="Wind God" SID="SID_風神" SP="" Type="Ring" DLC="0" />
+      <Param Name="Windsweep" SID="SID_風薙ぎ" SP="" Type="Ring" DLC="0" />
+      <Param Name="World Tree" SID="SID_大樹" SP="" Type="Class" DLC="0" />
+      <Param Name="Wrath" SID="SID_怒り" SP="2000" Type="Sync" DLC="0" />
+		</Data>
+	</Sheet>
+</Book>

@@ -1,0 +1,34 @@
+﻿<Book Count="1">
+	<Sheet Name="Weapons" Count="23">
+		<Header>
+			<Param Name="Name" Ident="Name" Type="string" />
+			<Param Name="GID" Ident="IID" Type="string" />
+			<Param Name="DLC" Ident="DLC" Type="int" />
+		</Header>
+		<Data>
+      <Param Name="Marth" GID="GID_マルス" DLC="0" />
+      <Param Name="Sigurd" GID="GID_シグルド" DLC="0" />
+      <Param Name="Celica" GID="GID_セリカ" DLC="0" />
+      <Param Name="Micaiah" GID="GID_ミカヤ" DLC="0" />
+      <Param Name="Roy" GID="GID_ロイ" DLC="0" />
+      <Param Name="Leif" GID="GID_リーフ" DLC="0" />
+      <Param Name="Lucina" GID="GID_ルキナ" DLC="0" />
+      <Param Name="Lyn" GID="GID_リン" DLC="0" />
+      <Param Name="Ike" GID="GID_アイク" DLC="0" />
+      <Param Name="Byleth" GID="GID_ベレト" DLC="0" />
+      <Param Name="Corrin" GID="GID_カムイ" DLC="0" />
+      <Param Name="Eirika" GID="GID_エイリーク" DLC="0" />
+      <Param Name="Ephraim" GID="GID_エフラム" DLC="0" />
+      <Param Name="Edelgard" GID="GID_エーデルガルト" DLC="1" />
+      <Param Name="Dimitri" GID="GID_ディミトリ" DLC="1" />
+      <Param Name="Claude" GID="GID_クロード" DLC="1" />
+      <Param Name="Tiki" GID="GID_チキ" DLC="1" />
+      <Param Name="Hector" GID="GID_ヘクトル" DLC="1" />
+      <Param Name="Veronica" GID="GID_ヴェロニカ" DLC="1" />
+      <Param Name="Soren" GID="GID_セネリオ" DLC="1" />
+      <Param Name="Camilla" GID="GID_カミラ" DLC="1" />
+      <Param Name="Chrom" GID="GID_クロム" DLC="1" />
+      <Param Name="Robin" GID="GID_ルフレ" DLC="1" />
+		</Data>
+	</Sheet>
+</Book>

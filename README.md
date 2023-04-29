@@ -55,6 +55,7 @@ Here is a list of additions that I plan to make to the randomizer:
 - random emblems (stat boosts, obtain order, ???)
 - ability to save/load previous randomization settings
 - compatibility with other mods
+- built-in integration with the Exclusive Classes mod so users no longer have to download that first
 - anything else you might suggest!
 
 <br>

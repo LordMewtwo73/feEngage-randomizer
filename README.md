@@ -36,21 +36,26 @@ as the randomizer executable.
 
 <br>
 
+%% CURRENT FUNCTIONS
+- randomizes characters' base class, base stats, growths, and stat caps
+- allows units to become classes normally locked to other units
+- randomizes classes' base stats and growths
+- randomizes weapon stats
+- randomizes emblem engravings and Engage Attacks
+- randomizes personal skills, class skills, emblem sync skills, and emblem engage skills
+
+<br>
+
 %% FUTURE ADDITIONS
 
-While this version is only capable of randomizing classes (and giving characters proper weapons 
-to match), the future state of this randomizer is much larger. To begin, here is a list of 
-additions that I plan to make to the randomizer:
+Here is a list of additions that I plan to make to the randomizer:
 
-- random class growths, bases, and caps
-- random character/class skills
 - random recruitment order (including enemy/unplayable characters)
-- random weapon stats
 - random enemies (classes, skills, weapons)
-- random emblems (stat boosts, skills, obtain order, ???)
-- seeding to replicate randomizations
+- random emblems (stat boosts, obtain order, ???)
 - ability to save/load previous randomization settings
 - compatibility with other mods
+- anything else you might suggest!
 
 <br>
 

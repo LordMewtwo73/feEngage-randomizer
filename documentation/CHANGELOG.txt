@@ -1,0 +1,23 @@
+%%% VERSION 0.3.0 %%%
+
+< NEW SELECTIONS >
+- save/load selected settings
+- can now shuffle classes, keeping the same number of each class as vanilla game
+- new option to prevent duplicate skills
+- new option to prevent low-tier skills
+- new option to remove stat increase skills
+- new option to remove selected skills from possible choices
+- new option to restrict engrave bonuses to multiples of 5
+- new option to give revival stones to enemies
+
+< HELPFUL CHANGES >
+- no longer requires you to download the Exclusive Classes for Everyone mod
+- skills are now more intelligently rolled; for example, a non-tome class cannot get the Dire Thunder skill, and Alear cannot get skills that activate when adjacent to the Divine Dragon
+- random classes now guarantees a non-staff item on staff users
+- more mod support: not fully tested, but more robust; more details to follow
+
+< BUG FIXES >
+- fixed outputlog incorrectly showing class growths
+- fixed stat increase skills not appearing in the unit's skill slot
+- fixed celine not recieving new items
+- fixed str/mag prioritizing to now benefit magic and hybrid classes

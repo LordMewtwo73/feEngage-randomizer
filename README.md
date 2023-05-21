@@ -14,13 +14,13 @@ suggestions for future additions to the randomizer.
 
 %% HOW TO USE
 
-1. This program requires the following mod, download it here:
+1. <No longer applicable as of 0.3.0!>  This program requires the following mod, download it here:
 
 Dragon + Exclusive Classes for Everyone 2.0.0
 
 https://gamebanana.com/mods/436900
 
-2. From that mod, copy the following file and place it into the PUT MODDED FILES HERE directory:
+2. <No longer applicable as of 0.3.0!>  From that mod, copy the following file and place it into the PUT MODDED FILES HERE directory:
 
 assettable.xml.bundle
 
@@ -66,5 +66,5 @@ Big thanks to AraragiHoozuki, who created the EngageXml program, which the rando
 Engage's gamefiles. Check that program out here:
 https://github.com/AraragiHoozuki/EngageXml
 
-Also big thanks to Lilibet and jirachilover, who created the necessary Dragon + Exclusive Classes for Everyone 2.0.0 mod, allowing characters to become normally unique classes. The mod link is shown above, but I'll post it again:
+Also big thanks to Lilibet and jirachilover, who created the necessary Dragon + Exclusive Classes for Everyone 2.0.0 mod, allowing characters to become normally unique classes. While the randomizer no longer requires you to download this mod yourself, it does use their changes as a reference, and I couldn't have done it without them and their mod! The mod link is shown above, but I'll post it again:
 https://gamebanana.com/mods/436900

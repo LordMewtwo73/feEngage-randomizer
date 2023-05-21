@@ -1,5 +1,5 @@
 ﻿<Book Count="1">
-	<Sheet Name="Classes" Count="59">
+	<Sheet Name="Classes" Count="76">
 		<Header>
 			<Param Name="Name" Ident="Name" Type="string" />
 			<Param Name="JID" Ident="JID" Type="string" />
@@ -30,7 +30,8 @@
 			<Param Name="Cupido" JID="JID_クピードー" Classtype="Cavalry" Tier="2" DLC="0" Unique="Fogado" />
 			<Param Name="Sword Fighter" JID="JID_ソードファイター" Classtype="Backup" Tier="1" DLC="0" Unique="" />
 			<Param Name="Swordmaster" JID="JID_ソードマスター" Classtype="Backup" Tier="2" DLC="0" Unique="" />
-			<Param Name="Hero" JID="JID_ブレイブヒーロー" Classtype="Backup" Tier="2" DLC="0" Unique="" />
+			<Param Name="Hero|Lance" JID="JID_ブレイブヒーロー" Classtype="Backup" Tier="2" DLC="0" Unique="" />
+			<Param Name="Hero|Axe" JID="JID_ブレイブヒーロー" Classtype="Backup" Tier="2" DLC="0" Unique="" />
 			<Param Name="Lance Fighter" JID="JID_ランスファイター" Classtype="Backup" Tier="1" DLC="0" Unique="" />
 			<Param Name="Halberdier" JID="JID_ハルバーディア" Classtype="Backup" Tier="2" DLC="0" Unique="" />
 			<Param Name="Royal Knight" JID="JID_ロイヤルナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
@@ -39,28 +40,44 @@
 			<Param Name="Warrior" JID="JID_ウォーリアー" Classtype="Backup" Tier="2" DLC="0" Unique="" />
 			<Param Name="Archer" JID="JID_アーチャー" Classtype="Covert" Tier="1" DLC="0" Unique="" />
 			<Param Name="Sniper" JID="JID_スナイパー" Classtype="Covert" Tier="2" DLC="0" Unique="" />
-			<Param Name="Bow Knight" JID="JID_ボウナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Bow Knight|Sword" JID="JID_ボウナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Bow Knight|Lance" JID="JID_ボウナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Bow Knight|Axe" JID="JID_ボウナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
 			<Param Name="Sword Armor" JID="JID_ソードアーマー" Classtype="Armor" Tier="1" DLC="0" Unique="" />
 			<Param Name="Lance Armor" JID="JID_ランスアーマー" Classtype="Armor" Tier="1" DLC="0" Unique="" />
 			<Param Name="Axe Armor" JID="JID_アクスアーマー" Classtype="Armor" Tier="1" DLC="0" Unique="" />
-			<Param Name="General" JID="JID_ジェネラル" Classtype="Armor" Tier="2" DLC="0" Unique="" />
-			<Param Name="Great Knight" JID="JID_グレートナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="General|Sword" JID="JID_ジェネラル" Classtype="Armor" Tier="2" DLC="0" Unique="" />
+			<Param Name="General|Lance" JID="JID_ジェネラル" Classtype="Armor" Tier="2" DLC="0" Unique="" />
+			<Param Name="General|Axe" JID="JID_ジェネラル" Classtype="Armor" Tier="2" DLC="0" Unique="" />
+			<Param Name="Great Knight|Sword|Lance" JID="JID_グレートナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Great Knight|Lance|Axe" JID="JID_グレートナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Great Knight|Sword|Axe" JID="JID_グレートナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
 			<Param Name="Sword Cavalier" JID="JID_ソードナイト" Classtype="Cavalry" Tier="1" DLC="0" Unique="" />
 			<Param Name="Lance Cavalier" JID="JID_ランスナイト" Classtype="Cavalry" Tier="1" DLC="0" Unique="" />
 			<Param Name="Axe Cavalier" JID="JID_アクスナイト" Classtype="Cavalry" Tier="1" DLC="0" Unique="" />
-			<Param Name="Paladin" JID="JID_パラディン" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
-			<Param Name="Wolf Knight" JID="JID_ウルフナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Paladin|Sword" JID="JID_パラディン" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Paladin|Lance" JID="JID_パラディン" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Paladin|Axe" JID="JID_パラディン" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Wolf Knight|Sword" JID="JID_ウルフナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Wolf Knight|Lance" JID="JID_ウルフナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Wolf Knight|Axe" JID="JID_ウルフナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
 			<Param Name="Mage" JID="JID_マージ" Classtype="Mystical" Tier="1" DLC="0" Unique="" />
 			<Param Name="Sage" JID="JID_セイジ" Classtype="Mystical" Tier="2" DLC="0" Unique="" />
-			<Param Name="Mage Knight" JID="JID_マージナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Mage Knight|Sword" JID="JID_マージナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Mage Knight|Lance" JID="JID_マージナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
+			<Param Name="Mage Knight|Axe" JID="JID_マージナイト" Classtype="Cavalry" Tier="2" DLC="0" Unique="" />
 			<Param Name="Martial Monk" JID="JID_モンク" Classtype="Qi Adept" Tier="1" DLC="0" Unique="" />
 			<Param Name="Martial Master" JID="JID_マスターモンク" Classtype="Qi Adept" Tier="2" DLC="0" Unique="" />
 			<Param Name="High Priest" JID="JID_ハイプリースト" Classtype="Mystical" Tier="2" DLC="0" Unique="" />
 			<Param Name="Sword Flier" JID="JID_ソードペガサス" Classtype="Flying" Tier="1" DLC="0" Unique="" />
 			<Param Name="Lance Flier" JID="JID_ランスペガサス" Classtype="Flying" Tier="1" DLC="0" Unique="" />
 			<Param Name="Axe Flier" JID="JID_アクスペガサス" Classtype="Flying" Tier="1" DLC="0" Unique="" />
-			<Param Name="Griffin Knight" JID="JID_グリフォンナイト" Classtype="Flying" Tier="2" DLC="0" Unique="" />
-			<Param Name="Wyvern Knight" JID="JID_ドラゴンナイト" Classtype="Flying" Tier="2" DLC="0" Unique="" />
+			<Param Name="Griffin Knight|Sword" JID="JID_グリフォンナイト" Classtype="Flying" Tier="2" DLC="0" Unique="" />
+			<Param Name="Griffin Knight|Lance" JID="JID_グリフォンナイト" Classtype="Flying" Tier="2" DLC="0" Unique="" />
+			<Param Name="Griffin Knight|Axe" JID="JID_グリフォンナイト" Classtype="Flying" Tier="2" DLC="0" Unique="" />
+			<Param Name="Wyvern Knight|Sword|Lance" JID="JID_ドラゴンナイト" Classtype="Flying" Tier="2" DLC="0" Unique="" />
+			<Param Name="Wyvern Knight|Lance|Axe" JID="JID_ドラゴンナイト" Classtype="Flying" Tier="2" DLC="0" Unique="" />
+			<Param Name="Wyvern Knight|Sword|Axe" JID="JID_ドラゴンナイト" Classtype="Flying" Tier="2" DLC="0" Unique="" />
 			<Param Name="Thief" JID="JID_シーフ" Classtype="Covert" Tier="3" DLC="0" Unique="" />
 			<Param Name="Dancer" JID="JID_ダンサー" Classtype="Qi Adept" Tier="3" DLC="0" Unique="" />
 			<Param Name="Fell Child_Nel" JID="JID_裏邪竜ノ娘" Classtype="Dragon" Tier="3" DLC="1" Unique="Nel" />

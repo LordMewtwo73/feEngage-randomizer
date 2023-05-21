@@ -12,7 +12,7 @@
 		</Header>
 		<Data>
 			<Param Name="Alear" PID="PID_リュール" Vanilla_Classname="Dragon Child" Vanilla_JID="JID_神竜ノ子" SP="300" DLC="0" Tier="1" Dispos="m000" />
-			<Param Name="Vander" PID="PID_ヴァンドレ" Vanilla_Classname="Paladin" Vanilla_JID="JID_パラディン" SP="500" DLC="0" Tier="2" Dispos="m001" />
+			<Param Name="Vander" PID="PID_ヴァンドレ" Vanilla_Classname="Paladin|Axe" Vanilla_JID="JID_パラディン" SP="500" DLC="0" Tier="2" Dispos="m001" />
 			<Param Name="Clanne" PID="PID_クラン" Vanilla_Classname="Mage" Vanilla_JID="JID_マージ" SP="300" DLC="0" Tier="1" Dispos="m002" />
 			<Param Name="Framme" PID="PID_フラン" Vanilla_Classname="Martial Monk" Vanilla_JID="JID_モンク" SP="300" DLC="0" Tier="1" Dispos="m002" />
 			<Param Name="Alfred" PID="PID_アルフレッド" Vanilla_Classname="Noble_Alfred" Vanilla_JID="JID_アヴニール下級" SP="300" DLC="0" Tier="1" Dispos="m003" />
@@ -33,14 +33,14 @@
 			<Param Name="Zelkov" PID="PID_ゼルコバ" Vanilla_Classname="Thief" Vanilla_JID="JID_シーフ" SP="1000" DLC="0" Tier="1" Dispos="m011" />
 			<Param Name="Fogado" PID="PID_フォガート" Vanilla_Classname="Sentinel_Fogado" Vanilla_JID="JID_クピードー下級" SP="1200" DLC="0" Tier="1" Dispos="m012" />
 			<Param Name="Pandreo" PID="PID_パンドロ" Vanilla_Classname="High Priest" Vanilla_JID="JID_ハイプリースト" SP="1200" DLC="0" Tier="2" Dispos="m012" />
-			<Param Name="Bunet" PID="PID_ボネ" Vanilla_Classname="Great Knight" Vanilla_JID="JID_グレートナイト" SP="1200" DLC="0" Tier="2" Dispos="m012" />
+			<Param Name="Bunet" PID="PID_ボネ" Vanilla_Classname="Great Knight|Sword|Axe" Vanilla_JID="JID_グレートナイト" SP="1200" DLC="0" Tier="2" Dispos="m012" />
 			<Param Name="Timerra" PID="PID_ミスティラ" Vanilla_Classname="Sentinel_Timerra" Vanilla_JID="JID_ピッチフォーク下級" SP="1500" DLC="0" Tier="1" Dispos="m013" />
 			<Param Name="Panette" PID="PID_パネトネ" Vanilla_Classname="Berserker" Vanilla_JID="JID_ベルセルク" SP="1500" DLC="0" Tier="2" Dispos="m013" />
-			<Param Name="Merrin" PID="PID_メリン" Vanilla_Classname="Wolf Knight" Vanilla_JID="JID_ウルフナイト" SP="1500" DLC="0" Tier="2" Dispos="m013" />
+			<Param Name="Merrin" PID="PID_メリン" Vanilla_Classname="Wolf Knight|Sword" Vanilla_JID="JID_ウルフナイト" SP="1500" DLC="0" Tier="2" Dispos="m013" />
 			<Param Name="Hortensia" PID="PID_オルテンシア" Vanilla_Classname="Wing Tamer_Hortensia" Vanilla_JID="JID_スレイプニル下級" SP="1500" DLC="0" Tier="1" Dispos="m014" />
 			<Param Name="Seadall" PID="PID_セアダス" Vanilla_Classname="Dancer" Vanilla_JID="JID_ダンサー" SP="1500" DLC="0" Tier="1" Dispos="m015" />
-			<Param Name="Rosado" PID="PID_ロサード" Vanilla_Classname="Wyvern Knight" Vanilla_JID="JID_ドラゴンナイト" SP="1800" DLC="0" Tier="2" Dispos="m016" />
-			<Param Name="Goldmary" PID="PID_ゴルドマリー" Vanilla_Classname="Hero" Vanilla_JID="JID_ブレイブヒーロー" SP="1800" DLC="0" Tier="2" Dispos="m016" />
+			<Param Name="Rosado" PID="PID_ロサード" Vanilla_Classname="Wyvern Knight|Lance|Axe" Vanilla_JID="JID_ドラゴンナイト" SP="1800" DLC="0" Tier="2" Dispos="m016" />
+			<Param Name="Goldmary" PID="PID_ゴルドマリー" Vanilla_Classname="Hero|Lance" Vanilla_JID="JID_ブレイブヒーロー" SP="1800" DLC="0" Tier="2" Dispos="m016" />
 			<Param Name="Lindon" PID="PID_リンデン" Vanilla_Classname="Sage" Vanilla_JID="JID_セイジ" SP="2000" DLC="0" Tier="2" Dispos="m018" />
 			<Param Name="Saphir" PID="PID_ザフィーア" Vanilla_Classname="Warrior" Vanilla_JID="JID_ウォーリアー" SP="2000" DLC="0" Tier="2" Dispos="m019" />
 			<Param Name="Veyle" PID="PID_ヴェイル" Vanilla_Classname="Fell Child_Veyle" Vanilla_JID="JID_邪竜ノ娘" SP="2500" DLC="0" Tier="2" Dispos="m021" />
@@ -51,7 +51,7 @@
 			<Param Name="Rafal" PID="PID_ラファール" Vanilla_Classname="Fell Child_Rafal" Vanilla_JID="JID_裏邪竜ノ子" SP="2000" DLC="1" Tier="3" Dispos="e001" />
 			<Param Name="Zelestia" PID="PID_セレスティア" Vanilla_Classname="Melusine_Zelestia" Vanilla_JID="JID_メリュジーヌ_味方" SP="2000" DLC="1" Tier="3" Dispos="e002" />
 			<Param Name="Gregory" PID="PID_グレゴリー" Vanilla_Classname="Sage" Vanilla_JID="JID_セイジ" SP="2000" DLC="1" Tier="2" Dispos="e003" />
-			<Param Name="Madeline" PID="PID_マデリーン" Vanilla_Classname="General" Vanilla_JID="JID_ジェネラル" SP="2000" DLC="1" Tier="2" Dispos="e004" />
+			<Param Name="Madeline" PID="PID_マデリーン" Vanilla_Classname="General|Axe" Vanilla_JID="JID_ジェネラル" SP="2000" DLC="1" Tier="2" Dispos="e004" />
 		</Data>
 	</Sheet>
 </Book>

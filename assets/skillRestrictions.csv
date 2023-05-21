@@ -1,0 +1,58 @@
+Sword Agility,Weapon,Sword
+Sword Power,Weapon,Sword
+Sword Focus,Weapon,Sword
+Lance Agility,Weapon,Lance
+Lance Power,Weapon,Lance
+Axe Power,Weapon,Axe
+Bow Agility,Weapon,Bow
+Bow Focus,Weapon,Bow
+Art Focus,Weapon,Fist
+Knife Precision,Weapon,Dagger
+Tome Precision,Weapon,Magic
+Staff Mastery,Weapon,Rod
+Resonance,Weapon,Magic
+Echo,Weapon,Magic
+Silence Ward,Weapon,Magic|Rod
+Augment,Weapon,Rod
+Arms Shield,Weapon,Sword|Lance|Axe|Fist
+Dual Assist,Classtype,Backup
+Alabaster Duty,Character,!Alear
+Verdant Faith,Character,!Alear
+Crimson Cheer,Character,!Alear
+Big Personality,Weapon,Rod
+Brave Assist,Classtype,Backup
+Smash+,Weapon,Sword|Lance|Axe
+Hobble,Weapon,Knife
+Spell Harmony,Weapon,Tome
+Self-Healing,Weapon,Rod
+Grasping Void,Weapon,Tome
+World Tree,Weapon,Rod
+Picket,Weapon,Sword|Lance|Axe|Bow|Dagger|Fist
+Soulblade,Weapon,Sword
+Special Dance,Class,Dancer
+Deadly Blade,Weapon,Sword
+Windsweep,Weapon,Sword
+Great Thunder,Weapon,Tome
+Raging Fire,Weapon,Tome
+Strong Arm,Weapon,Sword|Lance|Axe
+Dire Thunder,Weapon,Tome
+Healtouch,Weapon,Rod
+Giga Excalibur,Weapon,Tome
+Wind Adept,Weapon,Tome
+Wind God,Weapon,Bow
+Triangle Adept,Weapon,Sword|Lance|Axe|Fist
+Self-Destruct,Character,
+Self-Destruct,Emblem,
+Stalwart,Classtype,Dragon|Flying|Cavalry|Armor
+Unwavering,Classtype,Dragon|Flying|Cavalry|Armor
+Anima Focus,Weapon,Tome
+Block Recovery,Weapon,Tome
+Flare,Weapon,Tome
+Bow Guard,Weapon,Bow
+Axe Guard,Weapon,Axe
+Special Guard,Weapon,Special
+Knife Guard,Weapon,Dagger
+Magic Guard,Weapon,Tome
+Lance Guard,Weapon,Lance
+Sword Guard,Weapon,Sword
+Stealth Assist,Weapon,Rod

@@ -1,3 +1,9 @@
+%%% VERSION 0.3.1 %%%
+
+< BUG FIXES>
+- fixed issue with the blacklist skill function
+
+
 %%% VERSION 0.3.0 %%%
 
 < NEW SELECTIONS >
